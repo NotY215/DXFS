@@ -4,3 +4,8 @@
 *.a
 compile_commands.json
 .cache/
+.idea
+.vs
+.vscode/
+out
+build
