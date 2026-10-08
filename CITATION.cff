@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "DXFS"
+message: "If you use DXFS, please cite this repository."
+type: software
+authors:
+  - given-names: Shreyas
+    family-names: Mishra
+    affiliation: NotY215
+repository-code: "https://github.com/NotY215/DXFS"
+url: "https://github.com/NotY215/DXFS"
+license: "AGPL-3.0"
+version: "current"
