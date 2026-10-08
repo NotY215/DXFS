@@ -65,3 +65,13 @@ dxfs/
 ├── dxtool.cpp                  → dxtool  (CLI, has its own main)
 └── dxedit.cpp                  → dxedit  (editor, has its own main)
 ```
+
+## Project policies
+
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security](SECURITY.md)
+- [Support](SUPPORT.md)
+- [Citation](CITATION.cff)
+- [Governance](GOVERNANCE.md)
+- [License](LICENSE)
